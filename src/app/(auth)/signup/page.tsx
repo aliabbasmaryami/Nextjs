@@ -1,7 +1,7 @@
 export default function Signup(){
     return(
         <div>
-            SignUp page
+            This is SignUp page 
         </div>
     )
 }
