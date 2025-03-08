@@ -14,7 +14,7 @@ export default async function ProductReview({
     return (
       <>
         <h1>
-          Review {reviewsId} for Products {productId}
+          Review {reviewsId} For Products {productId}
         </h1>
       </>
     );
