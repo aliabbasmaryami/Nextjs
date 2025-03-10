@@ -1,3 +1,3 @@
 export default function (){
-    return <h3>blog page second123</h3>
+    return <h3> Thia ia second blog page </h3>
 }
