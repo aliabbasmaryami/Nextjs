@@ -8,7 +8,7 @@ export default function (){
         <h2>This is product 2</h2>
         <h2>This is product 3</h2>
         <h2>This is product 4</h2>
-        <h2>product 5</h2>
+        <h2>This is product 5</h2>
         </>
     )
 }
