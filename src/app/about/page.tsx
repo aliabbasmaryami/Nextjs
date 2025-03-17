@@ -1,3 +1,3 @@
 export default function (){
-    return <h3>About Us page</h3>
+    return <h3>This is About Us page</h3>
 }
