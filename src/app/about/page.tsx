@@ -1,3 +1,10 @@
 export default function (){
-    return <h3>This is About Us page</h3>
+    return (
+   <div>
+     <h2>About Us</h2>
+     <p>This is About us page</p>
+   </div>
+    
+    )
+    
 }
