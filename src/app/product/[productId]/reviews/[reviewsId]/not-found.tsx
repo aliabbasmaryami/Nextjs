@@ -6,7 +6,7 @@ export default function NotFound(){
     const reviewsId = Pathname.split("/") [4];
     return(
         <div>
-            <h1>Review {reviewsId} not found for {productId}</h1>
+            <h1>Review {reviewsId} Not found for {productId}</h1>
         </div>
     )
 }
