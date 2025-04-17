@@ -7,7 +7,7 @@ params: Promise<{productId: string}>
     return (
         <>
             <h1>
-                Details about product {productId}
+                Details About The products {productId}
             </h1>
         </>
     )
