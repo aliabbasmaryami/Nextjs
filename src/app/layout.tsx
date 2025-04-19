@@ -28,7 +28,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <header style={{display:"flex",justifyContent:"cenetr",alignItems:"center",textAlign:"center", background:"deeppink", padding:'1rem',color:'white'}}>
-          <p style={{display:"flex",justifyContent:"cenetr",alignItems:"center",textAlign:"center"}}>This is our Header Section</p>
+          <p style={{display:"flex",justifyContent:"cenetr",alignItems:"center",textAlign:"center"}}>This is Header</p>
         </header>
         {children}
         <footer style={{display:"flex",justifyContent:"cenetr",alignItems:"center",textAlign:"center", background:"deeppink", padding:" 1rem",  color:"white"}}>
