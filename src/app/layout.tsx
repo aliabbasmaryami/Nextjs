@@ -32,7 +32,7 @@ export default function RootLayout({
         </header>
         {children}
         <footer style={{display:"flex",justifyContent:"cenetr",alignItems:"center",textAlign:"center", background:"deeppink", padding:" 1rem",  color:"white"}}>
-          Hello this is footer Section
+          This is footer Section
         </footer>
       </body>
     </html>
