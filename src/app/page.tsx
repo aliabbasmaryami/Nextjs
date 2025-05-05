@@ -16,6 +16,9 @@ export default function Home(){
     <h2>
     <Link href="/otp">Otp screen</Link>
     </h2>
+    <h2>
+    <Link href="/signup">SignUp screen</Link>
+    </h2>
     
     </>
   )
