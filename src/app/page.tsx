@@ -10,6 +10,9 @@ export default function Home(){
     <h2>
     <Link href="/product">Product</Link>
     </h2>
+    <h2>
+    <Link href="/about">About Us</Link>
+    </h2>
     
     </>
   )
